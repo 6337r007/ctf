@@ -1,5 +1,5 @@
 # 64_shades_of_Gray
-[64_shades_of_Gray.bin](../../_resources/64_shades_of_Gray.bin)
+[64_shades_of_Gray.bin](./assets/64_shades_of_Gray.bin)
 
 Zadanie polega na tym, że plik jest w kodzie Graya a nie naturalnym kodzie binarnym. Po zmianie ciągu Graya na ciąg binarny powstanie dekodowalny ciąg znaków base64, który po odkodowaniu da flagę. 
 

@@ -1,6 +1,6 @@
 # spy
 
-[zadanie_spy.txt](../../_resources/zadanie_spy.txt)
+[zadanie_spy.txt](./assets/zadanie_spy.txt)
 
 ```txt
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⠀⢀⣄

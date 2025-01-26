@@ -1,6 +1,6 @@
 # unboxing
 
-[x.nthw](../../_resources/x.nthw)
+[x.nthw](./assets/x.nthw)
 
 ## Rozpakowywanie
 
